@@ -1,0 +1,1001 @@
+Return_ID,Order_ID,Product_Name,Return_Date,Return_Reason,Refund_Amount,Days_To_Refund,Supplier,Return_Status
+R-1000,O-1204,Earbuds,2024-12-01,Size Issue,3804,6,Lakme,Pending
+R-1001,O-1659,Smartwatch,2024-09-02,Defective,2981,5,Yonex,Completed
+R-1002,O-1527,Mixer,2025-05-02,Defective,1461,4,Puma,Completed
+R-1003,O-1927,T-shirt,2024-01-17,Other,784,5,Puma,Pending
+R-1004,O-1414,T-shirt,2024-05-22,Size Issue,2625,5,Philips,Pending
+R-1005,O-1113,Shoes,2024-06-03,Other,3283,9,Puma,Completed
+R-1006,O-1449,Novel,2025-09-14,Defective,3977,1,Yonex,Pending
+R-1007,O-1620,Smartwatch,2024-12-30,Defective,3303,5,Philips,Completed
+R-1008,O-1384,Tennis Racket,2024-05-12,Wrong Item,3155,6,Yonex,Pending
+R-1009,O-1533,Novel,2025-06-17,Other,2691,5,Yonex,Pending
+R-1010,O-1545,Earbuds,2024-02-07,Defective,1904,3,Samsung India,Completed
+R-1011,O-1723,Tennis Racket,2024-04-29,Wrong Item,1410,2,Nike,Completed
+R-1012,O-1295,Bag,2024-04-03,Wrong Item,836,9,Samsung India,Pending
+R-1013,O-1058,Tennis Racket,2024-04-27,Defective,1695,1,Yonex,Completed
+R-1014,O-1232,Tennis Racket,2024-05-18,Wrong Item,1214,8,Yonex,Pending
+R-1015,O-1559,Shoes,2024-07-26,Size Issue,3904,5,Nike,Pending
+R-1016,O-1804,Monitor,2024-09-15,Size Issue,3615,10,Lakme,Pending
+R-1017,O-1082,Mixer,2024-12-17,Defective,3150,9,Philips,Completed
+R-1018,O-1375,Tennis Racket,2025-01-30,Size Issue,2398,10,Puma,Completed
+R-1019,O-1475,Mixer,2024-05-28,Other,1418,8,Nike,Completed
+R-1020,O-1672,Smartwatch,2024-12-18,Other,2740,1,Philips,Completed
+R-1021,O-1563,Bag,2024-08-30,Other,3547,5,Philips,Pending
+R-1022,O-1861,Lipstick,2025-08-01,Other,1123,6,Samsung India,Pending
+R-1023,O-1949,Novel,2025-01-14,Size Issue,2496,5,Nike,Completed
+R-1024,O-1194,Novel,2024-11-08,Other,1239,5,Puma,Completed
+R-1025,O-1553,Bag,2025-06-26,Wrong Item,970,2,Puma,Pending
+R-1026,O-1234,Mixer,2024-08-31,Other,1745,3,Samsung India,Completed
+R-1027,O-1886,T-shirt,2025-03-03,Other,2923,4,Yonex,Completed
+R-1028,O-1850,Mixer,2024-04-13,Defective,2675,3,Nike,Completed
+R-1029,O-1480,T-shirt,2024-09-03,Defective,1897,6,Philips,Completed
+R-1030,O-1406,Tennis Racket,2025-08-18,Other,700,8,Lakme,Pending
+R-1031,O-1556,T-shirt,2025-08-21,Other,2725,2,Yonex,Completed
+R-1032,O-1180,Lipstick,2025-05-31,Other,2115,2,Lakme,Completed
+R-1033,O-1283,Tennis Racket,2024-03-31,Defective,1537,9,Lakme,Pending
+R-1034,O-1963,Smartwatch,2025-02-22,Size Issue,1163,9,Nike,Pending
+R-1035,O-1050,Smartwatch,2024-08-02,Wrong Item,3384,8,Samsung India,Pending
+R-1036,O-1533,Shoes,2024-08-26,Other,3658,7,Lakme,Pending
+R-1037,O-1297,Tennis Racket,2025-05-25,Size Issue,2341,5,Samsung India,Pending
+R-1038,O-1804,Lipstick,2024-03-01,Defective,2747,8,Yonex,Pending
+R-1039,O-1075,Smartwatch,2024-04-05,Other,1395,10,Yonex,Completed
+R-1040,O-1738,T-shirt,2024-02-26,Defective,1925,10,Puma,Pending
+R-1041,O-1986,Mixer,2025-06-02,Defective,856,4,Philips,Completed
+R-1042,O-1685,Smartwatch,2025-07-28,Wrong Item,3657,2,Puma,Completed
+R-1043,O-1818,Mixer,2024-03-23,Size Issue,2984,5,Puma,Completed
+R-1044,O-1651,Bag,2024-07-24,Wrong Item,3320,4,Philips,Completed
+R-1045,O-1260,Lipstick,2024-01-03,Wrong Item,3861,7,Yonex,Pending
+R-1046,O-1919,Mixer,2025-01-06,Other,1261,7,Puma,Pending
+R-1047,O-1179,Shoes,2024-09-14,Wrong Item,441,8,Yonex,Completed
+R-1048,O-1660,Lipstick,2024-03-01,Other,2743,9,Philips,Pending
+R-1049,O-1488,Novel,2024-05-25,Defective,3829,10,Puma,Completed
+R-1050,O-1138,Lipstick,2025-06-20,Defective,1173,8,Samsung India,Completed
+R-1051,O-1738,Bag,2024-01-03,Defective,3562,9,Samsung India,Completed
+R-1052,O-1366,Monitor,2025-03-24,Defective,3819,7,Lakme,Completed
+R-1053,O-1045,Tennis Racket,2025-05-14,Defective,3811,5,Philips,Completed
+R-1054,O-1665,Bag,2025-07-07,Other,3328,8,Puma,Pending
+R-1055,O-1858,Lipstick,2024-08-14,Other,1932,4,Nike,Completed
+R-1056,O-1733,Bag,2024-03-13,Other,684,10,Samsung India,Completed
+R-1057,O-1934,Mixer,2025-01-02,Size Issue,1052,10,Philips,Pending
+R-1058,O-1076,Novel,2024-07-25,Wrong Item,587,7,Nike,Pending
+R-1059,O-1143,Smartwatch,2024-09-22,Wrong Item,3902,7,Puma,Pending
+R-1060,O-1840,Lipstick,2025-05-16,Defective,3973,7,Samsung India,Pending
+R-1061,O-1786,T-shirt,2025-06-02,Size Issue,2091,5,Samsung India,Pending
+R-1062,O-1433,Lipstick,2024-03-23,Wrong Item,1605,4,Puma,Completed
+R-1063,O-1401,Tennis Racket,2024-05-20,Defective,1175,7,Puma,Completed
+R-1064,O-1767,Smartwatch,2024-09-08,Size Issue,2537,5,Nike,Completed
+R-1065,O-1527,Smartwatch,2024-03-20,Wrong Item,2215,8,Philips,Completed
+R-1066,O-1319,Lipstick,2024-02-27,Size Issue,1006,1,Philips,Pending
+R-1067,O-1672,Earbuds,2024-09-08,Defective,3742,2,Yonex,Completed
+R-1068,O-1663,T-shirt,2024-03-01,Other,1453,5,Philips,Pending
+R-1069,O-1316,Lipstick,2024-12-19,Other,1001,5,Yonex,Pending
+R-1070,O-1181,Novel,2024-05-03,Other,3131,9,Lakme,Pending
+R-1071,O-1008,Lipstick,2024-06-20,Other,2452,7,Samsung India,Completed
+R-1072,O-1425,Smartwatch,2024-12-03,Other,2538,7,Puma,Pending
+R-1073,O-1714,Shoes,2025-05-20,Size Issue,2027,7,Yonex,Completed
+R-1074,O-1964,Monitor,2024-10-05,Defective,2704,6,Lakme,Completed
+R-1075,O-1407,Smartwatch,2024-04-03,Defective,2187,1,Lakme,Pending
+R-1076,O-1655,T-shirt,2024-12-15,Wrong Item,353,9,Puma,Pending
+R-1077,O-1232,Monitor,2024-03-16,Defective,2543,3,Nike,Pending
+R-1078,O-1918,Lipstick,2024-06-04,Wrong Item,3252,8,Nike,Completed
+R-1079,O-1850,Lipstick,2024-07-21,Defective,927,2,Samsung India,Pending
+R-1080,O-1784,Mixer,2024-05-06,Other,3448,9,Lakme,Completed
+R-1081,O-1220,Lipstick,2024-03-27,Other,1199,6,Nike,Pending
+R-1082,O-1565,Earbuds,2024-09-20,Other,1509,8,Puma,Completed
+R-1083,O-1492,T-shirt,2024-04-16,Defective,1995,3,Samsung India,Completed
+R-1084,O-1748,Earbuds,2025-08-04,Size Issue,2148,10,Puma,Completed
+R-1085,O-1497,Monitor,2024-07-21,Wrong Item,963,5,Samsung India,Completed
+R-1086,O-1697,Novel,2024-10-11,Other,3748,8,Samsung India,Completed
+R-1087,O-1431,Monitor,2024-03-31,Size Issue,3747,8,Samsung India,Completed
+R-1088,O-1301,Earbuds,2024-02-12,Other,3607,7,Puma,Completed
+R-1089,O-1899,Smartwatch,2025-03-22,Wrong Item,520,4,Philips,Pending
+R-1090,O-1062,Monitor,2025-03-21,Defective,2014,2,Nike,Pending
+R-1091,O-1703,Earbuds,2024-12-18,Defective,538,10,Lakme,Completed
+R-1092,O-1980,Earbuds,2025-07-10,Other,3881,1,Puma,Completed
+R-1093,O-1958,Shoes,2024-08-14,Size Issue,3199,1,Nike,Completed
+R-1094,O-1486,Monitor,2024-01-05,Wrong Item,574,2,Samsung India,Completed
+R-1095,O-1176,Bag,2024-03-17,Other,1525,1,Philips,Completed
+R-1096,O-1570,T-shirt,2025-01-03,Size Issue,885,1,Nike,Pending
+R-1097,O-1987,Bag,2025-09-28,Wrong Item,726,4,Samsung India,Pending
+R-1098,O-1088,Lipstick,2024-03-18,Defective,2106,8,Lakme,Completed
+R-1099,O-1848,T-shirt,2024-09-09,Size Issue,2818,1,Puma,Completed
+R-1100,O-1397,Smartwatch,2025-06-08,Defective,464,3,Lakme,Completed
+R-1101,O-1877,Monitor,2024-11-08,Size Issue,3494,3,Puma,Completed
+R-1102,O-1249,Shoes,2024-01-02,Size Issue,1134,7,Samsung India,Pending
+R-1103,O-1113,Tennis Racket,2024-11-25,Size Issue,3826,3,Philips,Pending
+R-1104,O-1712,Tennis Racket,2025-09-16,Other,1890,9,Puma,Completed
+R-1105,O-1057,Shoes,2025-03-28,Wrong Item,811,5,Puma,Completed
+R-1106,O-1863,Bag,2024-08-20,Size Issue,2086,10,Yonex,Completed
+R-1107,O-1480,Mixer,2024-10-02,Size Issue,340,5,Samsung India,Pending
+R-1108,O-1819,Lipstick,2024-08-30,Size Issue,3361,6,Philips,Completed
+R-1109,O-1238,Bag,2024-10-18,Defective,760,8,Samsung India,Pending
+R-1110,O-1255,Lipstick,2024-12-06,Wrong Item,2875,7,Nike,Pending
+R-1111,O-1872,Tennis Racket,2024-05-31,Defective,1919,6,Yonex,Completed
+R-1112,O-1200,Tennis Racket,2024-02-13,Other,961,1,Yonex,Completed
+R-1113,O-1644,T-shirt,2025-09-16,Size Issue,3354,4,Nike,Completed
+R-1114,O-1974,Monitor,2025-05-03,Other,1579,4,Lakme,Completed
+R-1115,O-1396,Novel,2024-02-12,Wrong Item,819,3,Philips,Completed
+R-1116,O-1459,Shoes,2025-06-12,Wrong Item,458,10,Puma,Pending
+R-1117,O-1411,Smartwatch,2025-05-31,Defective,2712,2,Philips,Completed
+R-1118,O-1387,T-shirt,2024-06-21,Wrong Item,774,10,Philips,Completed
+R-1119,O-1913,T-shirt,2025-04-10,Size Issue,1857,3,Puma,Completed
+R-1120,O-1266,Smartwatch,2025-01-26,Size Issue,1155,2,Puma,Pending
+R-1121,O-1317,Smartwatch,2024-10-29,Size Issue,1948,6,Nike,Pending
+R-1122,O-1958,Smartwatch,2024-01-15,Other,3448,7,Philips,Pending
+R-1123,O-1387,Mixer,2024-02-10,Size Issue,3161,2,Nike,Pending
+R-1124,O-1099,Bag,2024-03-01,Size Issue,1671,3,Puma,Completed
+R-1125,O-1127,Novel,2024-11-07,Defective,951,3,Lakme,Completed
+R-1126,O-1725,Smartwatch,2024-08-03,Defective,3412,1,Nike,Completed
+R-1127,O-1951,Shoes,2024-01-17,Other,2391,7,Puma,Completed
+R-1128,O-1650,Mixer,2024-09-16,Defective,3614,2,Lakme,Completed
+R-1129,O-1560,Tennis Racket,2024-09-05,Size Issue,3004,10,Lakme,Completed
+R-1130,O-1134,Mixer,2025-06-20,Wrong Item,2103,2,Philips,Pending
+R-1131,O-1292,Tennis Racket,2025-04-12,Wrong Item,3207,3,Nike,Completed
+R-1132,O-1021,Shoes,2024-10-31,Size Issue,3046,9,Philips,Pending
+R-1133,O-1029,Mixer,2024-10-10,Defective,1646,9,Yonex,Completed
+R-1134,O-1767,Mixer,2025-09-08,Size Issue,3514,9,Philips,Pending
+R-1135,O-1911,T-shirt,2024-08-23,Defective,899,7,Nike,Pending
+R-1136,O-1519,Mixer,2024-05-18,Size Issue,2539,6,Philips,Pending
+R-1137,O-1027,T-shirt,2024-04-02,Size Issue,1745,6,Philips,Pending
+R-1138,O-1872,Shoes,2024-05-24,Defective,2778,5,Puma,Completed
+R-1139,O-1534,T-shirt,2024-05-10,Size Issue,492,4,Lakme,Pending
+R-1140,O-1340,Smartwatch,2025-05-02,Size Issue,2535,10,Puma,Pending
+R-1141,O-1477,Tennis Racket,2024-01-13,Wrong Item,1073,8,Lakme,Pending
+R-1142,O-1014,T-shirt,2025-05-19,Other,3933,8,Philips,Completed
+R-1143,O-1401,Bag,2025-05-27,Other,1349,8,Philips,Completed
+R-1144,O-1051,Novel,2024-07-16,Defective,3517,4,Philips,Pending
+R-1145,O-1257,Novel,2024-03-30,Defective,3279,3,Lakme,Completed
+R-1146,O-1464,Bag,2024-12-20,Wrong Item,961,6,Yonex,Completed
+R-1147,O-1803,Mixer,2024-05-11,Other,2043,3,Nike,Completed
+R-1148,O-1089,Shoes,2024-10-22,Wrong Item,3694,7,Puma,Pending
+R-1149,O-1945,T-shirt,2025-01-18,Other,3316,1,Philips,Completed
+R-1150,O-1601,Monitor,2025-04-28,Other,3677,4,Nike,Completed
+R-1151,O-1688,Lipstick,2025-08-22,Other,1498,4,Yonex,Completed
+R-1152,O-1471,Lipstick,2025-09-25,Wrong Item,3262,8,Samsung India,Completed
+R-1153,O-1651,Earbuds,2024-08-03,Other,3109,9,Puma,Pending
+R-1154,O-1694,T-shirt,2024-08-26,Size Issue,2107,7,Nike,Pending
+R-1155,O-1367,Bag,2024-04-22,Defective,1659,4,Lakme,Completed
+R-1156,O-1346,Tennis Racket,2025-01-24,Other,2836,4,Philips,Completed
+R-1157,O-1237,Earbuds,2024-03-25,Wrong Item,1266,2,Puma,Pending
+R-1158,O-1885,Lipstick,2025-07-22,Defective,1788,4,Yonex,Pending
+R-1159,O-1408,Novel,2024-06-17,Wrong Item,1201,5,Yonex,Completed
+R-1160,O-1770,Novel,2024-09-16,Wrong Item,3515,1,Yonex,Pending
+R-1161,O-1815,Tennis Racket,2024-09-28,Other,3057,5,Puma,Pending
+R-1162,O-1611,T-shirt,2024-09-12,Wrong Item,3453,4,Puma,Pending
+R-1163,O-1580,Earbuds,2024-05-20,Size Issue,1684,9,Puma,Completed
+R-1164,O-1853,T-shirt,2024-06-11,Other,3826,9,Lakme,Completed
+R-1165,O-1106,Mixer,2024-02-26,Defective,2076,5,Yonex,Pending
+R-1166,O-1547,Novel,2024-07-26,Defective,649,1,Puma,Completed
+R-1167,O-1803,Bag,2024-03-06,Other,1119,9,Yonex,Completed
+R-1168,O-1124,Mixer,2025-04-19,Other,3910,9,Puma,Completed
+R-1169,O-1291,T-shirt,2024-11-18,Wrong Item,3955,1,Yonex,Completed
+R-1170,O-1693,Bag,2025-03-23,Size Issue,3021,10,Nike,Completed
+R-1171,O-1776,Monitor,2024-02-25,Other,2681,5,Lakme,Pending
+R-1172,O-1105,Mixer,2024-02-07,Other,2113,4,Philips,Completed
+R-1173,O-1360,Lipstick,2024-01-27,Wrong Item,1112,3,Nike,Completed
+R-1174,O-1317,Earbuds,2024-08-31,Size Issue,2089,7,Yonex,Pending
+R-1175,O-1821,Earbuds,2025-08-31,Size Issue,2280,6,Philips,Pending
+R-1176,O-1302,Bag,2024-10-12,Wrong Item,797,1,Philips,Pending
+R-1177,O-1606,Mixer,2024-08-02,Defective,3819,2,Samsung India,Pending
+R-1178,O-1042,Lipstick,2025-05-30,Other,2654,6,Nike,Pending
+R-1179,O-1108,Monitor,2025-04-13,Size Issue,2868,1,Yonex,Completed
+R-1180,O-1831,Lipstick,2025-07-08,Other,3316,1,Philips,Pending
+R-1181,O-1867,T-shirt,2024-03-06,Defective,928,6,Philips,Completed
+R-1182,O-1425,Bag,2024-10-01,Wrong Item,2242,1,Samsung India,Completed
+R-1183,O-1952,Lipstick,2025-04-12,Defective,2527,1,Philips,Pending
+R-1184,O-1543,Tennis Racket,2025-07-31,Defective,2322,7,Puma,Pending
+R-1185,O-1133,Novel,2025-01-04,Wrong Item,2097,5,Yonex,Completed
+R-1186,O-1168,T-shirt,2025-05-25,Defective,3778,7,Yonex,Pending
+R-1187,O-1984,Bag,2024-08-30,Size Issue,3081,7,Philips,Pending
+R-1188,O-1212,Shoes,2025-04-14,Defective,2567,4,Puma,Pending
+R-1189,O-1939,Shoes,2024-11-04,Other,1960,8,Samsung India,Completed
+R-1190,O-1255,Earbuds,2024-05-17,Size Issue,3083,6,Nike,Pending
+R-1191,O-1033,Mixer,2024-03-22,Defective,2535,8,Puma,Pending
+R-1192,O-1480,Mixer,2024-11-16,Other,624,9,Puma,Pending
+R-1193,O-1174,Monitor,2025-09-23,Wrong Item,1574,2,Yonex,Completed
+R-1194,O-1513,Lipstick,2025-04-29,Other,2173,7,Puma,Completed
+R-1195,O-1649,Novel,2024-09-16,Size Issue,1087,5,Philips,Pending
+R-1196,O-1830,Bag,2024-02-11,Defective,2038,10,Puma,Pending
+R-1197,O-1386,T-shirt,2024-07-28,Wrong Item,2878,1,Lakme,Pending
+R-1198,O-1549,Bag,2025-02-12,Wrong Item,2833,3,Philips,Pending
+R-1199,O-1141,Mixer,2025-08-26,Other,2658,1,Lakme,Completed
+R-1200,O-1321,Bag,2024-01-16,Wrong Item,3584,6,Lakme,Pending
+R-1201,O-1497,T-shirt,2024-10-09,Wrong Item,1977,9,Puma,Completed
+R-1202,O-1346,T-shirt,2024-10-08,Other,2043,10,Yonex,Completed
+R-1203,O-1733,Novel,2025-05-16,Wrong Item,3317,9,Samsung India,Pending
+R-1204,O-1759,Smartwatch,2024-07-02,Other,1909,3,Samsung India,Completed
+R-1205,O-1306,Mixer,2025-07-20,Defective,3232,1,Philips,Completed
+R-1206,O-1148,Shoes,2024-08-16,Other,1928,6,Samsung India,Pending
+R-1207,O-1771,Tennis Racket,2024-04-07,Other,2622,2,Nike,Completed
+R-1208,O-1643,Shoes,2025-02-13,Wrong Item,3043,1,Nike,Pending
+R-1209,O-1075,T-shirt,2024-05-01,Defective,1177,3,Lakme,Pending
+R-1210,O-1333,Tennis Racket,2024-02-04,Defective,627,5,Yonex,Completed
+R-1211,O-1623,Earbuds,2025-06-07,Defective,1937,6,Puma,Pending
+R-1212,O-1328,T-shirt,2025-07-02,Other,618,10,Nike,Completed
+R-1213,O-1348,Bag,2024-02-04,Other,2776,2,Samsung India,Pending
+R-1214,O-1462,Earbuds,2024-03-30,Wrong Item,517,8,Philips,Completed
+R-1215,O-1083,Novel,2025-06-02,Wrong Item,2269,4,Nike,Completed
+R-1216,O-1248,Novel,2025-03-17,Defective,3012,10,Philips,Completed
+R-1217,O-1359,Shoes,2024-02-21,Defective,2343,9,Puma,Completed
+R-1218,O-1363,Lipstick,2025-04-05,Defective,3759,2,Philips,Pending
+R-1219,O-1787,Lipstick,2024-05-10,Other,3976,1,Puma,Pending
+R-1220,O-1752,T-shirt,2024-06-19,Other,1734,8,Nike,Completed
+R-1221,O-1683,Novel,2024-05-10,Wrong Item,1511,7,Philips,Pending
+R-1222,O-1076,Bag,2024-07-28,Defective,1932,7,Yonex,Pending
+R-1223,O-1587,Earbuds,2024-03-31,Other,1336,9,Puma,Completed
+R-1224,O-1243,Smartwatch,2024-06-01,Defective,2976,7,Samsung India,Pending
+R-1225,O-1115,Mixer,2024-05-15,Wrong Item,2419,1,Puma,Pending
+R-1226,O-1821,Shoes,2024-05-15,Other,1914,2,Lakme,Completed
+R-1227,O-1732,Tennis Racket,2024-06-27,Defective,3679,9,Yonex,Completed
+R-1228,O-1920,Monitor,2024-07-24,Defective,2604,8,Lakme,Pending
+R-1229,O-1907,Smartwatch,2024-02-27,Size Issue,3201,6,Nike,Pending
+R-1230,O-1962,Earbuds,2024-05-17,Other,2032,1,Samsung India,Completed
+R-1231,O-1222,Smartwatch,2024-05-18,Defective,3977,6,Puma,Completed
+R-1232,O-1483,Earbuds,2025-09-17,Defective,1871,7,Samsung India,Completed
+R-1233,O-1439,Bag,2024-05-24,Other,3445,4,Yonex,Pending
+R-1234,O-1508,Lipstick,2024-11-04,Wrong Item,2930,4,Yonex,Completed
+R-1235,O-1921,Smartwatch,2025-03-03,Other,3184,5,Nike,Pending
+R-1236,O-1707,Novel,2025-03-10,Other,3002,3,Lakme,Completed
+R-1237,O-1476,Smartwatch,2024-05-27,Other,2896,10,Nike,Pending
+R-1238,O-1462,Bag,2024-08-31,Other,3131,3,Yonex,Pending
+R-1239,O-1408,Monitor,2025-04-06,Other,3621,5,Yonex,Completed
+R-1240,O-1949,Shoes,2024-03-18,Defective,1347,1,Philips,Pending
+R-1241,O-1845,Mixer,2025-06-22,Size Issue,1171,7,Yonex,Completed
+R-1242,O-1485,Smartwatch,2024-12-19,Size Issue,2574,1,Samsung India,Pending
+R-1243,O-1833,Tennis Racket,2025-05-23,Other,1817,6,Philips,Pending
+R-1244,O-1279,Smartwatch,2024-03-28,Other,3207,8,Yonex,Pending
+R-1245,O-1271,T-shirt,2025-05-15,Other,3238,1,Samsung India,Pending
+R-1246,O-1922,Monitor,2025-08-16,Other,1323,3,Philips,Completed
+R-1247,O-1253,Shoes,2024-01-13,Other,3422,1,Yonex,Completed
+R-1248,O-1078,Novel,2024-07-10,Wrong Item,3764,9,Philips,Completed
+R-1249,O-1651,Bag,2024-08-24,Defective,3569,9,Lakme,Completed
+R-1250,O-1990,Novel,2025-05-20,Wrong Item,558,10,Nike,Completed
+R-1251,O-1634,Monitor,2025-01-02,Other,1444,6,Philips,Completed
+R-1252,O-1127,Mixer,2024-09-05,Defective,946,6,Puma,Pending
+R-1253,O-1132,Mixer,2025-07-30,Wrong Item,2577,1,Lakme,Completed
+R-1254,O-1525,Earbuds,2025-03-29,Size Issue,454,9,Yonex,Pending
+R-1255,O-1590,Monitor,2024-02-09,Defective,3834,9,Puma,Pending
+R-1256,O-1826,Smartwatch,2025-03-06,Defective,3793,10,Puma,Completed
+R-1257,O-1793,Monitor,2024-02-01,Other,605,7,Nike,Pending
+R-1258,O-1112,Tennis Racket,2025-07-26,Defective,1870,9,Nike,Completed
+R-1259,O-1631,Mixer,2024-10-10,Defective,3417,1,Philips,Completed
+R-1260,O-1237,T-shirt,2025-09-19,Size Issue,708,9,Nike,Completed
+R-1261,O-1098,Smartwatch,2024-02-03,Wrong Item,1722,4,Yonex,Pending
+R-1262,O-1310,Tennis Racket,2025-08-12,Defective,2062,7,Philips,Completed
+R-1263,O-1269,Bag,2024-04-24,Size Issue,3474,9,Samsung India,Completed
+R-1264,O-1924,Novel,2025-05-12,Wrong Item,1993,3,Puma,Pending
+R-1265,O-1735,Novel,2024-02-06,Defective,1167,2,Lakme,Pending
+R-1266,O-1767,Monitor,2025-06-02,Wrong Item,3483,1,Samsung India,Pending
+R-1267,O-1330,T-shirt,2025-05-24,Other,334,6,Lakme,Pending
+R-1268,O-1535,Shoes,2024-12-24,Wrong Item,735,8,Lakme,Pending
+R-1269,O-1591,Monitor,2025-07-21,Defective,2743,6,Puma,Completed
+R-1270,O-1104,Monitor,2025-06-15,Defective,2188,5,Lakme,Pending
+R-1271,O-1470,Novel,2024-10-22,Defective,2968,6,Puma,Pending
+R-1272,O-1077,Tennis Racket,2025-08-10,Wrong Item,561,6,Samsung India,Pending
+R-1273,O-1705,Mixer,2025-09-03,Wrong Item,1393,6,Lakme,Pending
+R-1274,O-1342,Smartwatch,2024-07-27,Wrong Item,1500,9,Puma,Completed
+R-1275,O-1963,Bag,2024-08-14,Defective,3955,4,Yonex,Completed
+R-1276,O-1474,T-shirt,2024-11-05,Defective,985,10,Philips,Pending
+R-1277,O-1542,Tennis Racket,2025-02-08,Other,1273,7,Puma,Completed
+R-1278,O-1323,Smartwatch,2025-05-21,Other,3961,1,Yonex,Completed
+R-1279,O-1931,Monitor,2024-09-26,Defective,2650,3,Yonex,Pending
+R-1280,O-1836,Lipstick,2024-07-20,Wrong Item,338,9,Puma,Pending
+R-1281,O-1699,Tennis Racket,2025-05-15,Wrong Item,3970,10,Lakme,Pending
+R-1282,O-1518,Bag,2024-04-03,Other,1881,7,Philips,Completed
+R-1283,O-1221,Tennis Racket,2024-05-22,Wrong Item,1823,9,Philips,Completed
+R-1284,O-1432,Lipstick,2025-09-07,Defective,1335,10,Lakme,Pending
+R-1285,O-1209,Monitor,2025-01-11,Wrong Item,3898,1,Lakme,Pending
+R-1286,O-1903,Mixer,2025-01-06,Other,1514,6,Yonex,Completed
+R-1287,O-1600,Tennis Racket,2025-04-12,Wrong Item,3237,5,Philips,Completed
+R-1288,O-1096,Smartwatch,2024-07-10,Size Issue,713,6,Philips,Pending
+R-1289,O-1343,Bag,2025-08-14,Wrong Item,3377,7,Samsung India,Completed
+R-1290,O-1146,Smartwatch,2025-05-03,Size Issue,3299,5,Nike,Pending
+R-1291,O-1903,Earbuds,2025-03-23,Size Issue,762,4,Nike,Pending
+R-1292,O-1206,Novel,2024-01-01,Wrong Item,2231,1,Nike,Completed
+R-1293,O-1946,Bag,2025-07-06,Defective,2402,5,Lakme,Completed
+R-1294,O-1653,T-shirt,2025-02-26,Other,1042,1,Lakme,Completed
+R-1295,O-1650,Monitor,2025-06-12,Other,3210,7,Yonex,Pending
+R-1296,O-1132,Bag,2024-05-29,Defective,3374,8,Puma,Pending
+R-1297,O-1223,Novel,2024-01-26,Defective,1758,1,Lakme,Completed
+R-1298,O-1686,Monitor,2024-05-23,Size Issue,2008,2,Puma,Pending
+R-1299,O-1758,Mixer,2025-09-05,Other,2311,2,Puma,Pending
+R-1300,O-1707,Bag,2025-07-12,Other,1039,9,Lakme,Pending
+R-1301,O-1339,Smartwatch,2025-02-14,Wrong Item,3913,5,Lakme,Pending
+R-1302,O-1713,Lipstick,2025-06-28,Wrong Item,632,1,Puma,Completed
+R-1303,O-1015,Smartwatch,2024-01-06,Wrong Item,1407,3,Puma,Completed
+R-1304,O-1611,Smartwatch,2024-11-30,Other,1915,1,Philips,Completed
+R-1305,O-1719,Shoes,2024-01-26,Wrong Item,2862,6,Philips,Completed
+R-1306,O-1887,Novel,2025-05-26,Wrong Item,3678,8,Nike,Pending
+R-1307,O-1929,Lipstick,2025-02-17,Size Issue,3467,4,Philips,Completed
+R-1308,O-1439,T-shirt,2024-05-03,Size Issue,1002,8,Puma,Completed
+R-1309,O-1580,Smartwatch,2024-12-26,Wrong Item,440,3,Lakme,Completed
+R-1310,O-1238,Monitor,2024-05-17,Defective,1499,3,Samsung India,Completed
+R-1311,O-1014,Lipstick,2025-05-26,Wrong Item,460,8,Nike,Pending
+R-1312,O-1011,T-shirt,2024-02-01,Other,1508,7,Yonex,Pending
+R-1313,O-1082,Smartwatch,2024-05-25,Defective,2255,3,Samsung India,Pending
+R-1314,O-1139,Mixer,2024-12-24,Size Issue,2870,4,Lakme,Pending
+R-1315,O-1847,Tennis Racket,2024-11-05,Size Issue,3163,7,Lakme,Completed
+R-1316,O-1866,Novel,2024-09-02,Other,324,9,Philips,Pending
+R-1317,O-1169,Tennis Racket,2025-05-27,Size Issue,845,4,Yonex,Pending
+R-1318,O-1338,Lipstick,2024-04-02,Wrong Item,2927,4,Yonex,Pending
+R-1319,O-1054,Earbuds,2024-07-26,Size Issue,3167,1,Samsung India,Completed
+R-1320,O-1802,Novel,2025-05-02,Other,2837,4,Philips,Pending
+R-1321,O-1849,Novel,2024-01-07,Defective,3401,7,Samsung India,Completed
+R-1322,O-1542,Shoes,2025-01-19,Other,3778,8,Philips,Pending
+R-1323,O-1910,T-shirt,2025-08-17,Wrong Item,537,2,Lakme,Completed
+R-1324,O-1330,Mixer,2024-07-09,Other,1494,1,Samsung India,Pending
+R-1325,O-1927,Mixer,2024-08-31,Size Issue,492,2,Samsung India,Pending
+R-1326,O-1856,Novel,2024-04-20,Defective,3091,7,Philips,Completed
+R-1327,O-1417,Mixer,2024-10-06,Defective,2731,4,Nike,Pending
+R-1328,O-1274,Lipstick,2024-10-09,Size Issue,2378,7,Philips,Pending
+R-1329,O-1370,Lipstick,2024-10-29,Other,1230,4,Nike,Pending
+R-1330,O-1169,Monitor,2024-01-30,Wrong Item,356,5,Samsung India,Completed
+R-1331,O-1709,Smartwatch,2025-06-28,Other,409,5,Yonex,Completed
+R-1332,O-1438,Bag,2024-10-22,Defective,3399,1,Philips,Pending
+R-1333,O-1726,Lipstick,2025-08-18,Other,3026,9,Yonex,Pending
+R-1334,O-1556,Monitor,2024-05-09,Size Issue,2255,1,Yonex,Completed
+R-1335,O-1687,Earbuds,2024-01-22,Wrong Item,1147,2,Philips,Pending
+R-1336,O-1212,Earbuds,2024-09-06,Size Issue,816,4,Samsung India,Completed
+R-1337,O-1151,Tennis Racket,2024-03-31,Wrong Item,3757,3,Puma,Completed
+R-1338,O-1957,Novel,2024-11-20,Size Issue,1381,3,Philips,Completed
+R-1339,O-1423,Bag,2024-10-03,Defective,2316,9,Lakme,Completed
+R-1340,O-1681,T-shirt,2025-04-02,Wrong Item,1362,4,Nike,Pending
+R-1341,O-1377,Shoes,2025-08-04,Defective,3973,4,Puma,Completed
+R-1342,O-1057,T-shirt,2024-10-07,Defective,3080,1,Yonex,Pending
+R-1343,O-1318,Monitor,2025-03-21,Defective,1815,4,Nike,Pending
+R-1344,O-1972,Novel,2025-02-03,Defective,780,3,Nike,Pending
+R-1345,O-1781,Monitor,2025-02-04,Wrong Item,407,1,Philips,Pending
+R-1346,O-1505,Lipstick,2024-11-15,Defective,1314,3,Samsung India,Completed
+R-1347,O-1696,Monitor,2025-09-11,Size Issue,2473,7,Puma,Pending
+R-1348,O-1877,Earbuds,2025-01-03,Size Issue,1073,3,Samsung India,Completed
+R-1349,O-1651,Novel,2024-05-21,Size Issue,2487,3,Samsung India,Completed
+R-1350,O-1190,Tennis Racket,2025-07-10,Wrong Item,1145,4,Yonex,Completed
+R-1351,O-1918,Smartwatch,2024-03-13,Wrong Item,3657,10,Nike,Completed
+R-1352,O-1853,Earbuds,2024-05-31,Size Issue,2258,3,Yonex,Completed
+R-1353,O-1586,Shoes,2024-03-27,Size Issue,378,8,Nike,Pending
+R-1354,O-1826,Mixer,2025-06-13,Size Issue,2937,6,Lakme,Pending
+R-1355,O-1717,T-shirt,2024-10-29,Other,391,3,Yonex,Pending
+R-1356,O-1464,Mixer,2025-02-05,Defective,501,4,Samsung India,Pending
+R-1357,O-1993,Smartwatch,2024-11-24,Wrong Item,366,7,Philips,Pending
+R-1358,O-1207,Smartwatch,2024-11-24,Defective,2708,4,Philips,Pending
+R-1359,O-1068,Earbuds,2024-10-18,Size Issue,2425,3,Yonex,Completed
+R-1360,O-1105,Earbuds,2025-02-01,Other,2442,5,Lakme,Completed
+R-1361,O-1689,Novel,2024-12-21,Size Issue,2866,8,Nike,Completed
+R-1362,O-1589,Earbuds,2024-10-08,Wrong Item,3176,3,Samsung India,Completed
+R-1363,O-1185,Lipstick,2024-03-19,Other,706,1,Lakme,Completed
+R-1364,O-1739,Novel,2024-07-25,Size Issue,584,6,Lakme,Completed
+R-1365,O-1944,Smartwatch,2024-09-22,Wrong Item,1857,7,Philips,Completed
+R-1366,O-1424,Monitor,2024-03-26,Defective,2771,1,Nike,Pending
+R-1367,O-1920,Smartwatch,2024-12-25,Size Issue,1765,7,Puma,Pending
+R-1368,O-1955,Mixer,2025-04-14,Size Issue,2022,3,Philips,Completed
+R-1369,O-1300,Monitor,2025-05-01,Size Issue,3794,9,Philips,Completed
+R-1370,O-1210,Tennis Racket,2025-09-29,Wrong Item,2887,4,Lakme,Completed
+R-1371,O-1054,Tennis Racket,2025-04-13,Other,1562,3,Samsung India,Pending
+R-1372,O-1320,Lipstick,2025-09-12,Defective,384,2,Puma,Pending
+R-1373,O-1298,Lipstick,2024-08-21,Size Issue,365,3,Samsung India,Pending
+R-1374,O-1898,Smartwatch,2024-12-25,Wrong Item,3859,4,Puma,Pending
+R-1375,O-1502,Bag,2024-07-10,Wrong Item,3915,6,Yonex,Completed
+R-1376,O-1152,T-shirt,2025-07-20,Defective,1133,8,Puma,Pending
+R-1377,O-1392,Tennis Racket,2024-12-21,Other,2880,5,Puma,Completed
+R-1378,O-1219,Tennis Racket,2025-05-18,Defective,3508,7,Nike,Completed
+R-1379,O-1638,Smartwatch,2024-06-06,Other,3187,10,Yonex,Completed
+R-1380,O-1921,Smartwatch,2024-10-24,Defective,3678,7,Nike,Pending
+R-1381,O-1626,Monitor,2025-03-23,Other,2036,1,Yonex,Pending
+R-1382,O-1128,Mixer,2025-01-08,Wrong Item,2910,6,Nike,Completed
+R-1383,O-1782,Monitor,2025-09-25,Size Issue,1160,3,Nike,Completed
+R-1384,O-1704,Lipstick,2024-06-01,Defective,2313,8,Yonex,Completed
+R-1385,O-1434,Monitor,2024-10-14,Defective,1370,3,Samsung India,Pending
+R-1386,O-1881,Bag,2025-05-11,Other,1661,10,Lakme,Pending
+R-1387,O-1366,Earbuds,2025-05-30,Defective,1356,4,Lakme,Pending
+R-1388,O-1689,Lipstick,2025-07-30,Wrong Item,2337,8,Samsung India,Completed
+R-1389,O-1286,Earbuds,2024-07-24,Other,846,6,Puma,Pending
+R-1390,O-1336,Lipstick,2025-04-20,Wrong Item,2796,4,Puma,Completed
+R-1391,O-1733,Monitor,2025-10-01,Defective,3803,2,Nike,Pending
+R-1392,O-1579,Tennis Racket,2024-05-21,Other,3998,1,Puma,Completed
+R-1393,O-1040,T-shirt,2024-06-17,Other,358,5,Yonex,Pending
+R-1394,O-1722,Earbuds,2024-01-31,Other,2261,4,Samsung India,Completed
+R-1395,O-1508,Novel,2024-04-06,Defective,1240,6,Samsung India,Completed
+R-1396,O-1121,Smartwatch,2024-09-25,Wrong Item,1355,10,Philips,Pending
+R-1397,O-1438,Tennis Racket,2025-01-15,Wrong Item,3299,9,Yonex,Completed
+R-1398,O-1189,Tennis Racket,2025-03-21,Wrong Item,2470,4,Lakme,Pending
+R-1399,O-1740,Novel,2025-01-25,Wrong Item,1658,10,Puma,Pending
+R-1400,O-1342,Lipstick,2024-01-22,Size Issue,3453,1,Nike,Pending
+R-1401,O-1006,Earbuds,2025-09-07,Defective,3355,7,Samsung India,Completed
+R-1402,O-1856,Mixer,2025-08-09,Defective,1298,6,Yonex,Pending
+R-1403,O-1399,Lipstick,2024-03-05,Wrong Item,469,2,Philips,Pending
+R-1404,O-1330,T-shirt,2025-08-30,Other,2937,5,Nike,Pending
+R-1405,O-1419,T-shirt,2024-11-19,Wrong Item,2039,6,Philips,Pending
+R-1406,O-1453,Shoes,2025-04-16,Other,3380,9,Lakme,Pending
+R-1407,O-1175,Bag,2025-08-03,Wrong Item,2233,7,Puma,Completed
+R-1408,O-1668,Smartwatch,2024-04-21,Wrong Item,1584,1,Philips,Pending
+R-1409,O-1595,T-shirt,2025-08-31,Other,2003,2,Philips,Pending
+R-1410,O-1924,Bag,2024-02-08,Wrong Item,304,7,Yonex,Pending
+R-1411,O-1566,Smartwatch,2024-11-07,Wrong Item,3186,1,Lakme,Pending
+R-1412,O-1512,Shoes,2025-05-09,Defective,1583,4,Nike,Pending
+R-1413,O-1307,Tennis Racket,2025-09-28,Size Issue,3707,2,Samsung India,Pending
+R-1414,O-1593,Monitor,2024-04-18,Defective,2338,9,Philips,Completed
+R-1415,O-1658,Novel,2025-07-16,Defective,3170,9,Yonex,Pending
+R-1416,O-1944,Smartwatch,2024-11-12,Wrong Item,2392,5,Puma,Pending
+R-1417,O-1275,Lipstick,2024-01-16,Size Issue,2774,1,Yonex,Completed
+R-1418,O-1596,Mixer,2024-03-26,Size Issue,3657,4,Puma,Completed
+R-1419,O-1749,Monitor,2025-05-08,Size Issue,1400,9,Puma,Pending
+R-1420,O-1726,Shoes,2025-06-08,Other,1011,5,Nike,Pending
+R-1421,O-1326,Smartwatch,2024-01-18,Defective,1216,8,Nike,Completed
+R-1422,O-1280,Shoes,2024-09-12,Size Issue,2516,9,Philips,Completed
+R-1423,O-1298,Mixer,2024-09-29,Defective,3787,6,Puma,Completed
+R-1424,O-1591,Monitor,2025-07-06,Wrong Item,1355,10,Lakme,Completed
+R-1425,O-1125,Shoes,2025-01-04,Size Issue,1518,2,Lakme,Completed
+R-1426,O-1406,Tennis Racket,2024-04-07,Other,3678,4,Samsung India,Pending
+R-1427,O-1411,Tennis Racket,2024-12-15,Other,1211,6,Samsung India,Pending
+R-1428,O-1637,Smartwatch,2024-07-31,Wrong Item,3481,5,Philips,Pending
+R-1429,O-1870,Earbuds,2025-08-26,Other,3212,9,Philips,Completed
+R-1430,O-1110,Monitor,2024-11-13,Other,1975,5,Lakme,Pending
+R-1431,O-1380,Earbuds,2024-10-30,Wrong Item,1456,1,Lakme,Pending
+R-1432,O-1103,Monitor,2024-01-04,Defective,736,8,Philips,Pending
+R-1433,O-1515,Tennis Racket,2024-03-01,Other,3442,2,Philips,Pending
+R-1434,O-1169,Earbuds,2025-03-04,Other,3264,8,Nike,Pending
+R-1435,O-1213,T-shirt,2024-04-22,Wrong Item,2485,9,Nike,Pending
+R-1436,O-1978,Smartwatch,2024-01-15,Other,2609,8,Philips,Pending
+R-1437,O-1241,Earbuds,2024-07-10,Other,3055,6,Yonex,Pending
+R-1438,O-1147,Monitor,2025-01-24,Wrong Item,897,1,Lakme,Pending
+R-1439,O-1380,Lipstick,2024-09-15,Defective,2266,6,Puma,Pending
+R-1440,O-1266,Earbuds,2024-03-10,Defective,1014,10,Puma,Pending
+R-1441,O-1112,Bag,2025-04-12,Wrong Item,2355,3,Puma,Completed
+R-1442,O-1443,Earbuds,2024-01-27,Size Issue,3894,9,Nike,Completed
+R-1443,O-1316,T-shirt,2025-06-30,Wrong Item,1943,6,Yonex,Pending
+R-1444,O-1052,Smartwatch,2024-03-15,Size Issue,2848,5,Lakme,Completed
+R-1445,O-1850,Novel,2025-08-09,Wrong Item,890,3,Lakme,Pending
+R-1446,O-1556,Monitor,2025-02-06,Wrong Item,1061,10,Puma,Completed
+R-1447,O-1897,Monitor,2025-06-12,Other,1610,1,Lakme,Completed
+R-1448,O-1256,Smartwatch,2024-01-08,Other,2573,7,Yonex,Completed
+R-1449,O-1461,Smartwatch,2025-09-04,Defective,968,4,Philips,Completed
+R-1450,O-1185,Mixer,2024-01-10,Defective,1265,10,Philips,Completed
+R-1451,O-1145,Lipstick,2024-02-25,Defective,3621,6,Philips,Pending
+R-1452,O-1461,Mixer,2025-06-09,Wrong Item,3162,4,Samsung India,Completed
+R-1453,O-1247,Smartwatch,2025-06-06,Size Issue,1898,3,Nike,Completed
+R-1454,O-1810,Earbuds,2025-03-06,Size Issue,1513,3,Nike,Completed
+R-1455,O-1643,Tennis Racket,2025-08-31,Size Issue,928,5,Puma,Completed
+R-1456,O-1138,Lipstick,2025-08-25,Wrong Item,3221,3,Puma,Pending
+R-1457,O-1378,T-shirt,2024-06-19,Wrong Item,1071,4,Nike,Completed
+R-1458,O-1062,Lipstick,2024-01-01,Size Issue,1063,7,Philips,Completed
+R-1459,O-1963,Tennis Racket,2025-07-26,Wrong Item,1905,3,Samsung India,Pending
+R-1460,O-1082,Lipstick,2024-04-21,Wrong Item,1157,10,Samsung India,Completed
+R-1461,O-1390,Lipstick,2025-06-02,Other,2730,7,Samsung India,Pending
+R-1462,O-1485,Lipstick,2024-09-27,Size Issue,3911,2,Lakme,Pending
+R-1463,O-1176,Monitor,2025-06-17,Size Issue,3600,7,Lakme,Completed
+R-1464,O-1282,T-shirt,2025-06-06,Wrong Item,2274,6,Samsung India,Pending
+R-1465,O-1226,Monitor,2025-02-04,Other,2524,5,Yonex,Completed
+R-1466,O-1044,Tennis Racket,2024-09-14,Size Issue,1897,10,Yonex,Completed
+R-1467,O-1560,Earbuds,2024-07-06,Size Issue,1669,3,Philips,Completed
+R-1468,O-1780,Mixer,2025-08-15,Defective,1158,3,Puma,Completed
+R-1469,O-1416,Earbuds,2024-02-16,Defective,3572,10,Nike,Pending
+R-1470,O-1919,Monitor,2024-07-02,Wrong Item,3900,5,Nike,Pending
+R-1471,O-1881,T-shirt,2025-02-23,Wrong Item,2639,6,Puma,Completed
+R-1472,O-1240,Mixer,2025-09-17,Defective,2768,5,Lakme,Completed
+R-1473,O-1634,T-shirt,2025-02-20,Defective,829,8,Lakme,Completed
+R-1474,O-1524,Novel,2025-05-11,Wrong Item,2103,9,Yonex,Pending
+R-1475,O-1111,Smartwatch,2025-03-13,Other,798,9,Puma,Completed
+R-1476,O-1177,Shoes,2024-07-18,Other,712,9,Nike,Pending
+R-1477,O-1213,Mixer,2025-01-03,Size Issue,3770,9,Philips,Completed
+R-1478,O-1333,Smartwatch,2024-12-25,Wrong Item,2365,1,Nike,Completed
+R-1479,O-1290,Monitor,2024-10-24,Defective,2513,9,Puma,Completed
+R-1480,O-1206,Lipstick,2025-03-10,Wrong Item,871,8,Samsung India,Completed
+R-1481,O-1619,Lipstick,2024-08-24,Wrong Item,2805,10,Yonex,Pending
+R-1482,O-1287,Smartwatch,2025-01-14,Other,465,8,Puma,Completed
+R-1483,O-1009,Shoes,2024-12-20,Wrong Item,1008,8,Nike,Pending
+R-1484,O-1935,Mixer,2024-12-31,Wrong Item,1481,3,Yonex,Pending
+R-1485,O-1516,Earbuds,2025-03-26,Defective,3055,5,Lakme,Completed
+R-1486,O-1983,Lipstick,2024-11-27,Wrong Item,789,8,Samsung India,Pending
+R-1487,O-1294,Smartwatch,2024-07-18,Wrong Item,2427,9,Samsung India,Pending
+R-1488,O-1699,Mixer,2024-09-11,Size Issue,2059,7,Philips,Pending
+R-1489,O-1036,T-shirt,2024-12-27,Wrong Item,3920,4,Puma,Completed
+R-1490,O-1547,Mixer,2025-08-17,Wrong Item,2574,10,Lakme,Completed
+R-1491,O-1414,Smartwatch,2024-12-13,Wrong Item,1770,4,Nike,Pending
+R-1492,O-1864,Mixer,2025-09-07,Size Issue,1830,4,Puma,Pending
+R-1493,O-1998,Monitor,2025-06-29,Other,1514,1,Samsung India,Completed
+R-1494,O-1499,Monitor,2025-01-04,Other,2173,6,Samsung India,Completed
+R-1495,O-1980,Smartwatch,2024-12-03,Size Issue,3949,3,Samsung India,Pending
+R-1496,O-1620,Bag,2025-09-06,Defective,1696,6,Philips,Pending
+R-1497,O-1051,Mixer,2025-03-12,Defective,3690,3,Yonex,Completed
+R-1498,O-1662,Mixer,2024-03-30,Other,2846,7,Nike,Pending
+R-1499,O-1372,Smartwatch,2024-10-25,Other,975,7,Lakme,Pending
+R-1500,O-1014,Smartwatch,2024-10-03,Wrong Item,1503,2,Puma,Pending
+R-1501,O-1417,Novel,2024-02-02,Defective,2077,6,Samsung India,Completed
+R-1502,O-1794,Bag,2025-01-07,Other,1338,4,Puma,Completed
+R-1503,O-1047,Shoes,2024-04-25,Other,3829,2,Lakme,Completed
+R-1504,O-1213,Monitor,2025-08-07,Wrong Item,2691,9,Philips,Completed
+R-1505,O-1957,Tennis Racket,2024-02-02,Defective,2769,4,Samsung India,Pending
+R-1506,O-1577,Smartwatch,2025-05-16,Defective,1878,4,Lakme,Pending
+R-1507,O-1735,Monitor,2025-01-07,Size Issue,3846,3,Nike,Pending
+R-1508,O-1723,Earbuds,2025-08-28,Wrong Item,2346,4,Yonex,Completed
+R-1509,O-1502,Earbuds,2025-07-14,Wrong Item,1319,1,Philips,Pending
+R-1510,O-1988,Shoes,2025-03-19,Defective,3204,1,Samsung India,Completed
+R-1511,O-1374,Monitor,2024-03-03,Defective,2660,1,Yonex,Completed
+R-1512,O-1570,T-shirt,2024-03-25,Other,1655,5,Lakme,Pending
+R-1513,O-1618,Mixer,2025-06-04,Size Issue,312,10,Puma,Pending
+R-1514,O-1450,Smartwatch,2025-05-05,Wrong Item,3000,3,Yonex,Completed
+R-1515,O-1955,Tennis Racket,2025-08-13,Size Issue,3195,6,Samsung India,Pending
+R-1516,O-1549,Tennis Racket,2025-03-20,Other,675,4,Lakme,Completed
+R-1517,O-1316,Mixer,2025-01-04,Defective,3052,5,Puma,Pending
+R-1518,O-1667,Smartwatch,2024-06-14,Other,1712,5,Puma,Pending
+R-1519,O-1367,Mixer,2025-07-21,Defective,3418,5,Yonex,Pending
+R-1520,O-1680,Lipstick,2025-06-23,Other,3151,7,Samsung India,Pending
+R-1521,O-1209,Bag,2024-12-05,Other,1772,5,Nike,Completed
+R-1522,O-1828,Tennis Racket,2025-06-18,Size Issue,1009,10,Puma,Completed
+R-1523,O-1322,T-shirt,2024-01-19,Wrong Item,2522,9,Puma,Pending
+R-1524,O-1112,Monitor,2024-12-31,Wrong Item,3776,6,Puma,Pending
+R-1525,O-1942,Tennis Racket,2025-08-02,Defective,3680,3,Nike,Completed
+R-1526,O-1096,T-shirt,2024-01-22,Defective,1763,4,Puma,Completed
+R-1527,O-1573,Tennis Racket,2025-07-01,Size Issue,801,8,Lakme,Completed
+R-1528,O-1898,Mixer,2025-01-21,Other,3392,3,Puma,Completed
+R-1529,O-1137,Smartwatch,2025-09-13,Wrong Item,2750,2,Nike,Completed
+R-1530,O-1291,T-shirt,2024-09-17,Other,1059,3,Yonex,Pending
+R-1531,O-1324,Monitor,2025-09-28,Wrong Item,1459,4,Philips,Completed
+R-1532,O-1149,Smartwatch,2024-12-14,Size Issue,3830,4,Samsung India,Completed
+R-1533,O-1001,Monitor,2025-01-31,Size Issue,609,2,Samsung India,Completed
+R-1534,O-1100,T-shirt,2024-11-22,Wrong Item,3530,3,Philips,Pending
+R-1535,O-1507,Smartwatch,2025-05-11,Wrong Item,831,3,Puma,Pending
+R-1536,O-1946,T-shirt,2025-02-10,Other,1242,9,Nike,Completed
+R-1537,O-1449,Monitor,2024-11-26,Size Issue,2795,4,Puma,Completed
+R-1538,O-1173,Earbuds,2025-08-31,Size Issue,3807,2,Philips,Pending
+R-1539,O-1736,Mixer,2024-03-20,Other,3771,10,Samsung India,Pending
+R-1540,O-1485,Monitor,2025-03-05,Other,3002,6,Lakme,Completed
+R-1541,O-1096,Lipstick,2025-09-20,Wrong Item,797,2,Samsung India,Pending
+R-1542,O-1307,Monitor,2024-05-09,Size Issue,3696,8,Yonex,Completed
+R-1543,O-1815,Bag,2025-03-13,Other,600,2,Puma,Pending
+R-1544,O-1404,Bag,2025-08-24,Size Issue,3659,10,Lakme,Pending
+R-1545,O-1417,Lipstick,2024-11-02,Wrong Item,1149,9,Yonex,Pending
+R-1546,O-1061,Novel,2025-03-04,Wrong Item,1154,4,Nike,Completed
+R-1547,O-1775,Earbuds,2025-07-12,Size Issue,3788,3,Samsung India,Completed
+R-1548,O-1324,Earbuds,2024-09-30,Other,316,9,Nike,Pending
+R-1549,O-1570,Mixer,2025-07-09,Other,3629,10,Puma,Completed
+R-1550,O-1664,Tennis Racket,2024-05-29,Size Issue,2729,6,Lakme,Completed
+R-1551,O-1092,Bag,2024-05-31,Other,856,8,Samsung India,Pending
+R-1552,O-1734,Tennis Racket,2024-09-23,Defective,2453,2,Philips,Completed
+R-1553,O-1220,Bag,2024-05-22,Wrong Item,3472,2,Yonex,Pending
+R-1554,O-1569,T-shirt,2025-09-06,Size Issue,2841,8,Lakme,Completed
+R-1555,O-1772,Mixer,2024-12-05,Size Issue,2037,1,Puma,Completed
+R-1556,O-1791,Monitor,2024-12-30,Other,1097,8,Puma,Completed
+R-1557,O-1450,Smartwatch,2024-05-29,Defective,3867,6,Nike,Completed
+R-1558,O-1975,Mixer,2025-04-22,Other,3703,10,Philips,Completed
+R-1559,O-1346,Lipstick,2025-02-22,Other,3667,8,Puma,Pending
+R-1560,O-1352,Smartwatch,2024-08-24,Size Issue,3182,4,Philips,Pending
+R-1561,O-1200,Tennis Racket,2025-08-08,Other,3112,10,Samsung India,Pending
+R-1562,O-1275,Monitor,2024-08-27,Defective,3372,7,Nike,Completed
+R-1563,O-1813,Mixer,2024-12-03,Defective,315,2,Nike,Pending
+R-1564,O-1523,Mixer,2025-01-01,Size Issue,2775,4,Samsung India,Completed
+R-1565,O-1735,Smartwatch,2024-07-21,Defective,2894,10,Lakme,Pending
+R-1566,O-1199,Shoes,2024-10-07,Size Issue,3683,6,Nike,Completed
+R-1567,O-1660,Smartwatch,2024-06-15,Wrong Item,3070,8,Puma,Pending
+R-1568,O-1207,Novel,2024-08-15,Defective,3096,9,Puma,Pending
+R-1569,O-1667,Lipstick,2025-02-09,Defective,1432,7,Lakme,Completed
+R-1570,O-1966,T-shirt,2025-03-14,Defective,1365,2,Philips,Completed
+R-1571,O-1653,Earbuds,2024-04-10,Defective,2846,9,Philips,Completed
+R-1572,O-1747,Mixer,2024-11-04,Defective,3490,8,Samsung India,Completed
+R-1573,O-1664,Smartwatch,2024-12-15,Wrong Item,1322,8,Samsung India,Completed
+R-1574,O-1623,Shoes,2025-01-06,Other,2723,9,Samsung India,Completed
+R-1575,O-1807,Monitor,2024-01-21,Defective,2291,1,Philips,Pending
+R-1576,O-1710,Smartwatch,2024-09-24,Wrong Item,302,1,Philips,Pending
+R-1577,O-1943,Bag,2024-10-17,Wrong Item,3730,5,Lakme,Pending
+R-1578,O-1073,Lipstick,2024-03-11,Wrong Item,2857,7,Puma,Completed
+R-1579,O-1960,Mixer,2025-01-15,Defective,1721,7,Yonex,Pending
+R-1580,O-1012,Smartwatch,2024-12-20,Defective,1933,10,Philips,Pending
+R-1581,O-1832,Monitor,2025-04-26,Wrong Item,2896,9,Yonex,Pending
+R-1582,O-1757,Mixer,2025-09-24,Wrong Item,3449,6,Nike,Completed
+R-1583,O-1831,Mixer,2025-04-03,Defective,3973,2,Puma,Completed
+R-1584,O-1326,T-shirt,2024-10-04,Wrong Item,2655,4,Yonex,Completed
+R-1585,O-1166,T-shirt,2024-12-01,Other,766,4,Puma,Pending
+R-1586,O-1877,T-shirt,2024-08-22,Size Issue,2655,2,Samsung India,Pending
+R-1587,O-1711,Lipstick,2024-08-15,Other,1455,9,Philips,Pending
+R-1588,O-1119,Lipstick,2024-04-09,Other,899,9,Philips,Completed
+R-1589,O-1054,T-shirt,2024-06-24,Wrong Item,2925,6,Philips,Pending
+R-1590,O-1122,Tennis Racket,2024-02-29,Wrong Item,3771,9,Lakme,Pending
+R-1591,O-1043,Lipstick,2024-03-04,Size Issue,2668,10,Nike,Pending
+R-1592,O-1883,Earbuds,2025-05-27,Size Issue,3930,2,Philips,Pending
+R-1593,O-1473,Mixer,2024-05-05,Size Issue,2899,5,Puma,Completed
+R-1594,O-1041,Novel,2025-06-14,Size Issue,1777,4,Puma,Completed
+R-1595,O-1306,Earbuds,2025-08-15,Other,3522,7,Philips,Completed
+R-1596,O-1999,Smartwatch,2025-04-27,Wrong Item,1833,6,Samsung India,Pending
+R-1597,O-1048,Lipstick,2025-03-19,Defective,733,10,Yonex,Completed
+R-1598,O-1641,Lipstick,2024-03-15,Size Issue,1344,7,Samsung India,Pending
+R-1599,O-1972,Tennis Racket,2025-01-21,Wrong Item,479,8,Philips,Completed
+R-1600,O-1146,Earbuds,2025-09-27,Other,1316,6,Yonex,Pending
+R-1601,O-1682,Earbuds,2025-04-11,Other,1563,6,Yonex,Pending
+R-1602,O-1929,T-shirt,2025-07-23,Defective,3895,6,Lakme,Completed
+R-1603,O-1457,T-shirt,2024-02-02,Other,3240,4,Yonex,Pending
+R-1604,O-1068,T-shirt,2025-03-14,Other,3644,3,Nike,Completed
+R-1605,O-1970,Smartwatch,2024-05-12,Defective,3328,4,Puma,Pending
+R-1606,O-1668,Monitor,2025-02-08,Defective,3768,5,Yonex,Pending
+R-1607,O-1006,Lipstick,2024-04-02,Size Issue,3206,5,Samsung India,Pending
+R-1608,O-1293,T-shirt,2024-12-03,Size Issue,1479,3,Samsung India,Pending
+R-1609,O-1479,Smartwatch,2024-10-27,Size Issue,2410,3,Nike,Pending
+R-1610,O-1482,Smartwatch,2024-07-03,Other,588,4,Samsung India,Pending
+R-1611,O-1778,Monitor,2024-04-19,Wrong Item,3365,1,Yonex,Completed
+R-1612,O-1542,Novel,2024-01-26,Size Issue,1280,6,Lakme,Pending
+R-1613,O-1118,Shoes,2024-12-19,Defective,3202,2,Yonex,Completed
+R-1614,O-1093,Monitor,2025-08-07,Defective,340,2,Samsung India,Pending
+R-1615,O-1506,Lipstick,2025-02-04,Wrong Item,2850,1,Nike,Pending
+R-1616,O-1186,Tennis Racket,2024-04-22,Defective,3530,10,Yonex,Pending
+R-1617,O-1231,Monitor,2024-07-13,Defective,3123,1,Puma,Completed
+R-1618,O-1921,Earbuds,2024-05-20,Other,3729,5,Philips,Completed
+R-1619,O-1792,Novel,2024-06-05,Defective,2327,2,Yonex,Pending
+R-1620,O-1817,Earbuds,2025-06-16,Other,3173,7,Lakme,Completed
+R-1621,O-1034,Tennis Racket,2024-02-16,Size Issue,2894,3,Nike,Completed
+R-1622,O-1375,Novel,2025-05-15,Size Issue,2825,3,Philips,Pending
+R-1623,O-1115,Novel,2024-02-21,Size Issue,601,7,Philips,Pending
+R-1624,O-1032,T-shirt,2024-04-15,Size Issue,3435,8,Nike,Pending
+R-1625,O-1200,T-shirt,2024-09-30,Other,2175,3,Puma,Completed
+R-1626,O-1047,Smartwatch,2025-09-26,Defective,688,10,Nike,Pending
+R-1627,O-1061,Novel,2024-04-26,Defective,804,8,Nike,Completed
+R-1628,O-1310,Tennis Racket,2025-05-30,Wrong Item,3288,5,Yonex,Pending
+R-1629,O-1170,Lipstick,2024-04-18,Defective,1870,2,Philips,Pending
+R-1630,O-1067,Earbuds,2025-06-09,Size Issue,2101,10,Samsung India,Pending
+R-1631,O-1506,Bag,2025-02-18,Wrong Item,1709,1,Samsung India,Pending
+R-1632,O-1518,T-shirt,2025-09-10,Defective,3625,5,Puma,Pending
+R-1633,O-1272,Monitor,2025-06-14,Other,3206,1,Philips,Completed
+R-1634,O-1537,Tennis Racket,2024-03-18,Size Issue,1405,6,Samsung India,Pending
+R-1635,O-1800,Smartwatch,2024-01-05,Wrong Item,1021,2,Nike,Pending
+R-1636,O-1129,Earbuds,2024-09-23,Size Issue,2907,8,Nike,Pending
+R-1637,O-1714,Smartwatch,2025-07-30,Wrong Item,2198,7,Nike,Completed
+R-1638,O-1498,Bag,2024-12-28,Wrong Item,1341,10,Lakme,Completed
+R-1639,O-1199,Shoes,2024-09-22,Wrong Item,1568,5,Yonex,Pending
+R-1640,O-1531,Earbuds,2024-05-27,Other,1662,5,Lakme,Pending
+R-1641,O-1134,T-shirt,2025-07-04,Size Issue,1328,4,Puma,Completed
+R-1642,O-1070,Mixer,2025-06-09,Size Issue,2360,6,Lakme,Pending
+R-1643,O-1563,Monitor,2024-02-20,Other,2305,10,Nike,Completed
+R-1644,O-1507,Lipstick,2025-02-07,Defective,1141,6,Philips,Completed
+R-1645,O-1478,Novel,2024-12-24,Other,1032,10,Samsung India,Pending
+R-1646,O-1988,Novel,2025-07-09,Defective,3705,1,Yonex,Completed
+R-1647,O-1882,Monitor,2025-02-02,Other,729,6,Nike,Pending
+R-1648,O-1161,Novel,2024-07-24,Size Issue,1937,1,Samsung India,Pending
+R-1649,O-1554,Lipstick,2024-07-11,Other,1689,5,Lakme,Pending
+R-1650,O-1507,Tennis Racket,2024-04-01,Defective,802,4,Yonex,Pending
+R-1651,O-1920,Monitor,2025-07-13,Other,3438,9,Samsung India,Pending
+R-1652,O-1987,Novel,2024-08-03,Wrong Item,309,3,Samsung India,Completed
+R-1653,O-1991,Tennis Racket,2025-07-10,Other,1828,6,Lakme,Pending
+R-1654,O-1246,Smartwatch,2024-10-06,Wrong Item,460,5,Puma,Completed
+R-1655,O-1954,Earbuds,2024-01-07,Defective,993,7,Philips,Completed
+R-1656,O-1954,Novel,2024-10-01,Defective,2080,10,Lakme,Pending
+R-1657,O-1844,Mixer,2024-05-02,Wrong Item,2907,7,Puma,Pending
+R-1658,O-1970,Shoes,2024-06-26,Other,2803,8,Philips,Pending
+R-1659,O-1693,Monitor,2024-03-29,Other,3020,3,Yonex,Completed
+R-1660,O-1472,Smartwatch,2024-09-01,Size Issue,1583,8,Lakme,Completed
+R-1661,O-1253,Mixer,2025-07-25,Defective,3574,8,Puma,Pending
+R-1662,O-1567,Mixer,2025-08-21,Size Issue,2359,2,Nike,Completed
+R-1663,O-1736,Smartwatch,2024-08-18,Wrong Item,1040,8,Nike,Completed
+R-1664,O-1388,Shoes,2025-02-02,Defective,1156,7,Samsung India,Completed
+R-1665,O-1337,Smartwatch,2024-08-23,Wrong Item,3509,9,Yonex,Completed
+R-1666,O-1438,T-shirt,2025-04-11,Defective,1009,8,Samsung India,Completed
+R-1667,O-1502,Smartwatch,2024-06-09,Size Issue,3294,9,Philips,Completed
+R-1668,O-1714,T-shirt,2024-10-15,Other,953,10,Puma,Completed
+R-1669,O-1100,Tennis Racket,2024-01-16,Size Issue,1664,2,Puma,Completed
+R-1670,O-1978,Tennis Racket,2024-08-30,Other,1085,5,Nike,Pending
+R-1671,O-1118,Novel,2024-05-01,Size Issue,304,9,Lakme,Completed
+R-1672,O-1912,Bag,2024-11-03,Wrong Item,531,3,Philips,Completed
+R-1673,O-1310,Mixer,2024-03-06,Other,2057,9,Puma,Pending
+R-1674,O-1584,Smartwatch,2024-02-22,Size Issue,3134,8,Nike,Pending
+R-1675,O-1891,Earbuds,2025-04-04,Defective,2438,5,Puma,Pending
+R-1676,O-1751,Bag,2024-07-05,Other,1350,6,Philips,Completed
+R-1677,O-1044,Monitor,2025-07-17,Size Issue,3353,2,Puma,Pending
+R-1678,O-1054,Smartwatch,2025-05-05,Defective,955,2,Puma,Completed
+R-1679,O-1848,Smartwatch,2025-05-11,Wrong Item,2239,6,Samsung India,Completed
+R-1680,O-1722,Shoes,2025-04-22,Size Issue,3593,4,Lakme,Completed
+R-1681,O-1273,Mixer,2024-02-14,Other,3693,7,Yonex,Completed
+R-1682,O-1472,Lipstick,2024-09-28,Size Issue,3463,1,Yonex,Completed
+R-1683,O-1949,Bag,2024-10-23,Other,1500,7,Samsung India,Completed
+R-1684,O-1986,Monitor,2024-04-07,Size Issue,2151,10,Puma,Pending
+R-1685,O-1513,Shoes,2024-04-05,Wrong Item,3458,4,Puma,Completed
+R-1686,O-1730,Tennis Racket,2024-12-14,Size Issue,3705,7,Samsung India,Pending
+R-1687,O-1894,Smartwatch,2024-07-27,Other,2740,9,Philips,Pending
+R-1688,O-1240,Novel,2024-08-22,Other,2709,4,Samsung India,Completed
+R-1689,O-1881,Smartwatch,2024-04-09,Size Issue,2341,10,Puma,Completed
+R-1690,O-1543,Monitor,2025-06-22,Other,3667,8,Nike,Completed
+R-1691,O-1935,Novel,2024-01-21,Size Issue,1600,9,Lakme,Completed
+R-1692,O-1303,Bag,2024-05-13,Size Issue,3255,4,Samsung India,Pending
+R-1693,O-1637,Earbuds,2024-02-08,Size Issue,2947,4,Yonex,Completed
+R-1694,O-1766,Lipstick,2025-02-04,Size Issue,983,3,Yonex,Pending
+R-1695,O-1727,Bag,2024-03-07,Wrong Item,1157,8,Nike,Pending
+R-1696,O-1208,Smartwatch,2024-03-22,Wrong Item,1300,7,Nike,Completed
+R-1697,O-1980,Mixer,2024-01-12,Defective,770,8,Nike,Pending
+R-1698,O-1731,Monitor,2024-07-20,Other,1791,9,Samsung India,Pending
+R-1699,O-1616,Lipstick,2025-04-04,Other,2197,5,Yonex,Completed
+R-1700,O-1306,T-shirt,2024-11-19,Size Issue,613,5,Yonex,Completed
+R-1701,O-1577,Bag,2024-10-17,Size Issue,1916,5,Philips,Completed
+R-1702,O-1057,Lipstick,2024-02-09,Other,2941,9,Puma,Completed
+R-1703,O-1195,Earbuds,2025-03-05,Wrong Item,2264,4,Samsung India,Pending
+R-1704,O-1159,Novel,2024-01-28,Wrong Item,1716,10,Samsung India,Pending
+R-1705,O-1897,Bag,2024-07-25,Defective,1800,7,Yonex,Pending
+R-1706,O-1606,Novel,2025-07-09,Defective,2098,8,Nike,Completed
+R-1707,O-1675,Bag,2024-07-05,Size Issue,1877,2,Samsung India,Completed
+R-1708,O-1402,T-shirt,2025-02-18,Wrong Item,2935,7,Yonex,Pending
+R-1709,O-1770,Earbuds,2024-03-31,Size Issue,3244,3,Philips,Completed
+R-1710,O-1772,Lipstick,2024-11-04,Other,558,10,Puma,Completed
+R-1711,O-1623,Lipstick,2024-01-30,Size Issue,469,5,Philips,Pending
+R-1712,O-1946,Tennis Racket,2025-09-11,Defective,3498,4,Nike,Completed
+R-1713,O-1552,Novel,2024-01-31,Other,2470,1,Nike,Pending
+R-1714,O-1626,Novel,2024-05-12,Other,3244,2,Yonex,Completed
+R-1715,O-1416,Shoes,2024-07-23,Size Issue,2008,8,Puma,Pending
+R-1716,O-1145,Novel,2025-04-22,Wrong Item,1137,2,Samsung India,Pending
+R-1717,O-1804,Novel,2025-07-25,Size Issue,1107,4,Puma,Completed
+R-1718,O-1394,Shoes,2025-09-14,Defective,3435,5,Puma,Pending
+R-1719,O-1929,Monitor,2025-03-02,Defective,1888,2,Philips,Completed
+R-1720,O-1302,Earbuds,2025-08-22,Size Issue,439,3,Lakme,Completed
+R-1721,O-1577,Bag,2024-12-30,Wrong Item,784,8,Puma,Completed
+R-1722,O-1306,Mixer,2024-09-17,Other,1068,6,Samsung India,Completed
+R-1723,O-1543,Smartwatch,2025-04-09,Other,1868,2,Nike,Pending
+R-1724,O-1821,Monitor,2025-04-30,Wrong Item,3072,7,Puma,Pending
+R-1725,O-1506,Lipstick,2024-06-11,Wrong Item,1173,5,Nike,Completed
+R-1726,O-1669,Mixer,2024-06-12,Size Issue,1505,1,Lakme,Pending
+R-1727,O-1501,Lipstick,2024-06-14,Size Issue,3956,3,Samsung India,Pending
+R-1728,O-1280,Shoes,2025-07-04,Wrong Item,3614,4,Puma,Pending
+R-1729,O-1119,Lipstick,2024-08-30,Defective,2210,4,Puma,Completed
+R-1730,O-1770,Bag,2024-04-02,Other,1984,9,Lakme,Completed
+R-1731,O-1058,Novel,2025-08-02,Other,618,5,Samsung India,Completed
+R-1732,O-1945,Monitor,2024-08-03,Other,3591,3,Lakme,Completed
+R-1733,O-1770,Monitor,2025-03-01,Size Issue,1290,9,Yonex,Completed
+R-1734,O-1689,Tennis Racket,2024-08-11,Defective,546,3,Philips,Completed
+R-1735,O-1458,Smartwatch,2025-09-16,Size Issue,1362,2,Yonex,Pending
+R-1736,O-1853,Smartwatch,2025-03-10,Defective,2768,5,Puma,Completed
+R-1737,O-1384,Monitor,2025-01-20,Wrong Item,2168,5,Yonex,Completed
+R-1738,O-1206,Mixer,2024-10-23,Other,1524,4,Puma,Pending
+R-1739,O-1830,Tennis Racket,2025-01-09,Defective,1730,1,Nike,Pending
+R-1740,O-1296,T-shirt,2025-04-25,Wrong Item,1665,10,Puma,Pending
+R-1741,O-1181,Lipstick,2025-07-30,Size Issue,1706,7,Nike,Completed
+R-1742,O-1877,Mixer,2024-09-06,Size Issue,944,1,Yonex,Completed
+R-1743,O-1786,Novel,2025-04-27,Defective,1763,6,Lakme,Pending
+R-1744,O-1510,Smartwatch,2024-06-02,Defective,1974,3,Yonex,Completed
+R-1745,O-1307,Earbuds,2024-03-01,Size Issue,318,4,Yonex,Completed
+R-1746,O-1024,Earbuds,2024-02-19,Wrong Item,3643,9,Lakme,Completed
+R-1747,O-1123,T-shirt,2024-07-26,Size Issue,2016,7,Lakme,Pending
+R-1748,O-1481,Tennis Racket,2024-05-10,Size Issue,3018,9,Samsung India,Pending
+R-1749,O-1273,T-shirt,2025-02-02,Defective,1583,5,Philips,Completed
+R-1750,O-1942,Lipstick,2024-02-02,Defective,891,4,Lakme,Completed
+R-1751,O-1718,Novel,2024-07-07,Defective,2043,7,Philips,Completed
+R-1752,O-1085,Shoes,2024-01-12,Wrong Item,2875,3,Puma,Pending
+R-1753,O-1077,T-shirt,2024-03-09,Size Issue,1983,2,Puma,Pending
+R-1754,O-1680,Novel,2025-05-07,Size Issue,3059,5,Lakme,Completed
+R-1755,O-1787,Shoes,2024-04-01,Defective,751,5,Yonex,Pending
+R-1756,O-1466,Bag,2025-09-11,Wrong Item,1488,8,Yonex,Pending
+R-1757,O-1553,Shoes,2024-12-06,Defective,2956,6,Philips,Pending
+R-1758,O-1675,Earbuds,2025-06-08,Other,655,9,Samsung India,Pending
+R-1759,O-1507,Smartwatch,2025-03-28,Defective,414,4,Philips,Completed
+R-1760,O-1781,Tennis Racket,2024-01-27,Other,2901,8,Lakme,Completed
+R-1761,O-1340,Shoes,2024-04-17,Other,3725,2,Philips,Pending
+R-1762,O-1345,Novel,2025-01-22,Wrong Item,3864,1,Yonex,Completed
+R-1763,O-1121,T-shirt,2024-06-22,Defective,4000,1,Puma,Pending
+R-1764,O-1546,Monitor,2024-11-16,Other,3692,5,Philips,Completed
+R-1765,O-1496,Novel,2024-03-23,Other,3429,7,Nike,Pending
+R-1766,O-1976,T-shirt,2024-01-19,Wrong Item,1121,2,Nike,Completed
+R-1767,O-1653,Monitor,2025-04-04,Defective,2133,9,Puma,Pending
+R-1768,O-1753,Smartwatch,2024-01-20,Other,2872,8,Philips,Completed
+R-1769,O-1510,Bag,2024-10-03,Defective,2300,7,Nike,Completed
+R-1770,O-1185,Earbuds,2024-12-30,Other,1047,3,Puma,Completed
+R-1771,O-1080,Tennis Racket,2025-08-05,Wrong Item,2590,10,Samsung India,Pending
+R-1772,O-1428,Smartwatch,2024-11-16,Size Issue,1600,6,Philips,Completed
+R-1773,O-1984,Smartwatch,2024-06-25,Size Issue,2235,4,Yonex,Pending
+R-1774,O-1141,Bag,2025-07-11,Defective,2444,7,Nike,Completed
+R-1775,O-1894,Bag,2024-01-10,Wrong Item,1787,4,Yonex,Pending
+R-1776,O-1030,T-shirt,2025-02-08,Defective,3697,7,Puma,Pending
+R-1777,O-1891,Novel,2025-05-29,Other,2844,9,Yonex,Pending
+R-1778,O-1179,Mixer,2024-10-18,Defective,564,2,Puma,Completed
+R-1779,O-1054,Bag,2025-05-24,Other,1644,7,Puma,Pending
+R-1780,O-1792,Mixer,2024-09-22,Defective,3430,10,Puma,Completed
+R-1781,O-1208,Mixer,2024-02-14,Wrong Item,1896,4,Samsung India,Pending
+R-1782,O-1781,Monitor,2024-02-14,Size Issue,3806,6,Puma,Completed
+R-1783,O-1706,Bag,2024-12-22,Other,858,2,Yonex,Completed
+R-1784,O-1321,Bag,2025-09-02,Other,479,4,Samsung India,Completed
+R-1785,O-1676,Monitor,2025-09-08,Defective,2476,10,Lakme,Completed
+R-1786,O-1666,Novel,2024-06-21,Size Issue,1898,10,Puma,Pending
+R-1787,O-1223,Monitor,2024-10-08,Defective,967,9,Lakme,Pending
+R-1788,O-1704,Mixer,2025-01-28,Size Issue,2362,7,Lakme,Completed
+R-1789,O-1070,Lipstick,2024-03-09,Size Issue,3159,1,Puma,Pending
+R-1790,O-1776,Novel,2025-07-18,Defective,484,4,Puma,Completed
+R-1791,O-1811,Bag,2024-06-04,Defective,3447,6,Samsung India,Pending
+R-1792,O-1226,Monitor,2025-01-03,Other,408,5,Samsung India,Completed
+R-1793,O-1572,Tennis Racket,2024-10-01,Other,3770,5,Lakme,Pending
+R-1794,O-1860,Shoes,2024-09-13,Size Issue,2947,2,Philips,Completed
+R-1795,O-1968,T-shirt,2025-09-08,Other,303,9,Puma,Completed
+R-1796,O-1197,Bag,2025-04-01,Wrong Item,2982,7,Samsung India,Completed
+R-1797,O-1258,Mixer,2024-02-22,Size Issue,1650,7,Samsung India,Pending
+R-1798,O-1433,T-shirt,2024-08-23,Defective,2595,7,Nike,Pending
+R-1799,O-1637,Lipstick,2025-07-27,Size Issue,360,4,Puma,Completed
+R-1800,O-1106,T-shirt,2025-01-31,Defective,2522,8,Lakme,Pending
+R-1801,O-1223,T-shirt,2025-01-24,Other,1564,9,Samsung India,Pending
+R-1802,O-1774,T-shirt,2024-10-14,Defective,3318,6,Lakme,Completed
+R-1803,O-1762,Novel,2025-07-12,Size Issue,2914,9,Lakme,Completed
+R-1804,O-1716,Smartwatch,2025-07-10,Defective,3698,9,Nike,Completed
+R-1805,O-1976,Shoes,2024-07-29,Size Issue,2618,8,Puma,Completed
+R-1806,O-1721,Bag,2024-06-12,Wrong Item,861,9,Nike,Completed
+R-1807,O-1590,Novel,2024-04-09,Wrong Item,2873,5,Samsung India,Completed
+R-1808,O-1198,Tennis Racket,2024-05-31,Defective,2250,10,Puma,Pending
+R-1809,O-1840,T-shirt,2024-07-05,Wrong Item,2186,5,Samsung India,Completed
+R-1810,O-1894,Smartwatch,2024-09-10,Other,1004,10,Philips,Pending
+R-1811,O-1674,Mixer,2024-02-25,Other,2437,8,Puma,Completed
+R-1812,O-1009,Shoes,2025-04-09,Wrong Item,3998,6,Nike,Completed
+R-1813,O-1430,Earbuds,2025-09-29,Size Issue,2698,6,Puma,Completed
+R-1814,O-1250,Shoes,2025-01-21,Size Issue,3517,6,Lakme,Completed
+R-1815,O-1842,Mixer,2024-09-08,Size Issue,3734,5,Nike,Completed
+R-1816,O-1826,Tennis Racket,2025-02-27,Other,2350,5,Puma,Pending
+R-1817,O-1109,T-shirt,2024-05-06,Size Issue,3792,6,Yonex,Completed
+R-1818,O-1470,Smartwatch,2025-03-02,Other,1538,7,Yonex,Pending
+R-1819,O-1795,Monitor,2024-10-06,Wrong Item,610,2,Puma,Completed
+R-1820,O-1011,T-shirt,2024-07-25,Size Issue,1934,8,Yonex,Pending
+R-1821,O-1011,Monitor,2024-04-24,Other,1499,2,Nike,Completed
+R-1822,O-1048,Earbuds,2024-10-06,Size Issue,1716,6,Philips,Completed
+R-1823,O-1769,Monitor,2024-03-18,Wrong Item,1338,4,Yonex,Pending
+R-1824,O-1339,Smartwatch,2024-09-15,Wrong Item,710,10,Lakme,Pending
+R-1825,O-1904,Lipstick,2025-04-25,Other,3385,7,Puma,Completed
+R-1826,O-1617,T-shirt,2025-08-25,Other,2350,3,Nike,Completed
+R-1827,O-1792,Bag,2024-04-14,Wrong Item,3935,1,Lakme,Completed
+R-1828,O-1105,Earbuds,2025-03-07,Wrong Item,2974,2,Philips,Completed
+R-1829,O-1965,Mixer,2024-04-11,Defective,2542,8,Samsung India,Pending
+R-1830,O-1313,T-shirt,2025-05-06,Wrong Item,2567,7,Puma,Completed
+R-1831,O-1933,Bag,2024-12-14,Size Issue,3980,9,Puma,Pending
+R-1832,O-1561,T-shirt,2024-04-10,Wrong Item,587,1,Yonex,Completed
+R-1833,O-1706,T-shirt,2024-10-26,Other,1382,7,Philips,Completed
+R-1834,O-1217,Lipstick,2024-03-27,Wrong Item,1195,9,Nike,Pending
+R-1835,O-1145,Novel,2025-06-07,Size Issue,1745,3,Philips,Pending
+R-1836,O-1396,Tennis Racket,2024-08-27,Other,3158,10,Puma,Pending
+R-1837,O-1926,Smartwatch,2024-08-01,Wrong Item,2147,4,Nike,Pending
+R-1838,O-1681,Smartwatch,2025-01-23,Defective,497,8,Samsung India,Pending
+R-1839,O-1637,Smartwatch,2025-02-02,Size Issue,1710,3,Nike,Pending
+R-1840,O-1802,Monitor,2025-07-22,Size Issue,3486,6,Puma,Completed
+R-1841,O-1564,Lipstick,2024-12-24,Wrong Item,1017,9,Philips,Pending
+R-1842,O-1853,Bag,2024-12-03,Defective,2295,9,Nike,Completed
+R-1843,O-1998,Earbuds,2024-01-10,Size Issue,848,6,Nike,Pending
+R-1844,O-1188,Novel,2024-02-17,Size Issue,3517,9,Nike,Completed
+R-1845,O-1103,Shoes,2024-12-05,Size Issue,1492,7,Lakme,Pending
+R-1846,O-1739,Monitor,2025-06-03,Defective,3849,7,Nike,Completed
+R-1847,O-1242,Earbuds,2025-06-28,Size Issue,2515,5,Yonex,Pending
+R-1848,O-1981,T-shirt,2025-06-20,Other,1784,5,Lakme,Completed
+R-1849,O-1718,Lipstick,2024-02-28,Other,844,1,Philips,Pending
+R-1850,O-1894,Shoes,2024-11-05,Wrong Item,935,2,Puma,Completed
+R-1851,O-1158,Shoes,2025-08-09,Defective,329,3,Samsung India,Pending
+R-1852,O-1863,Shoes,2025-05-25,Defective,3813,5,Puma,Completed
+R-1853,O-1699,Mixer,2024-04-06,Size Issue,3031,10,Philips,Pending
+R-1854,O-1662,Bag,2025-05-03,Size Issue,3052,1,Lakme,Pending
+R-1855,O-1136,Tennis Racket,2025-06-01,Wrong Item,779,9,Samsung India,Pending
+R-1856,O-1334,Shoes,2025-08-24,Other,3623,8,Lakme,Pending
+R-1857,O-1501,Mixer,2024-01-26,Wrong Item,1151,10,Samsung India,Pending
+R-1858,O-1085,T-shirt,2025-08-27,Size Issue,1260,1,Nike,Completed
+R-1859,O-1489,Shoes,2024-07-01,Other,3546,1,Philips,Pending
+R-1860,O-1661,Tennis Racket,2024-07-27,Other,1572,7,Samsung India,Completed
+R-1861,O-1500,Novel,2024-01-23,Size Issue,3280,10,Samsung India,Completed
+R-1862,O-1171,Novel,2025-03-07,Defective,2668,7,Samsung India,Completed
+R-1863,O-1624,Earbuds,2024-01-09,Wrong Item,1991,1,Lakme,Completed
+R-1864,O-1464,Monitor,2025-01-11,Size Issue,2820,9,Puma,Pending
+R-1865,O-1903,Smartwatch,2024-06-23,Other,350,9,Philips,Completed
+R-1866,O-1680,Novel,2024-03-23,Other,3489,8,Philips,Pending
+R-1867,O-1174,Monitor,2025-09-12,Size Issue,795,9,Philips,Completed
+R-1868,O-1070,Bag,2025-04-17,Other,2188,5,Puma,Pending
+R-1869,O-1644,Mixer,2025-03-31,Wrong Item,3542,7,Philips,Completed
+R-1870,O-1203,Mixer,2025-01-19,Size Issue,1431,2,Philips,Completed
+R-1871,O-1827,Shoes,2025-05-29,Size Issue,2754,7,Samsung India,Completed
+R-1872,O-1980,Bag,2025-03-31,Size Issue,1610,9,Lakme,Completed
+R-1873,O-1580,Monitor,2024-05-08,Other,2415,10,Lakme,Pending
+R-1874,O-1868,T-shirt,2025-01-23,Defective,3720,2,Puma,Completed
+R-1875,O-1939,Monitor,2025-09-17,Other,2241,6,Nike,Completed
+R-1876,O-1728,Mixer,2025-01-17,Defective,3783,7,Samsung India,Pending
+R-1877,O-1244,Lipstick,2025-04-17,Wrong Item,1328,2,Samsung India,Completed
+R-1878,O-1575,T-shirt,2024-06-29,Defective,2197,1,Lakme,Pending
+R-1879,O-1932,Bag,2025-03-16,Wrong Item,3247,10,Yonex,Completed
+R-1880,O-1102,Bag,2025-02-06,Other,1264,6,Yonex,Pending
+R-1881,O-1275,Monitor,2024-02-25,Size Issue,3950,8,Yonex,Completed
+R-1882,O-1234,T-shirt,2025-03-25,Wrong Item,1462,10,Yonex,Pending
+R-1883,O-1173,Smartwatch,2024-09-20,Size Issue,325,4,Puma,Pending
+R-1884,O-1276,Tennis Racket,2025-02-25,Size Issue,2076,7,Yonex,Pending
+R-1885,O-1510,T-shirt,2024-06-02,Other,937,5,Yonex,Pending
+R-1886,O-1037,Monitor,2024-04-16,Defective,1963,6,Philips,Pending
+R-1887,O-1299,T-shirt,2025-09-18,Size Issue,868,9,Philips,Pending
+R-1888,O-1354,Shoes,2024-10-31,Defective,647,7,Yonex,Completed
+R-1889,O-1000,Tennis Racket,2025-05-20,Other,1680,10,Lakme,Completed
+R-1890,O-1749,Smartwatch,2025-05-25,Size Issue,456,10,Nike,Pending
+R-1891,O-1391,T-shirt,2025-07-22,Other,1525,9,Yonex,Pending
+R-1892,O-1627,Tennis Racket,2024-04-29,Size Issue,1685,4,Samsung India,Completed
+R-1893,O-1440,Monitor,2024-04-07,Other,1821,4,Philips,Completed
+R-1894,O-1746,T-shirt,2024-07-04,Defective,410,3,Lakme,Completed
+R-1895,O-1320,Smartwatch,2025-09-07,Size Issue,2286,3,Samsung India,Completed
+R-1896,O-1183,Novel,2025-06-04,Other,1502,5,Samsung India,Pending
+R-1897,O-1402,Smartwatch,2024-06-06,Defective,1092,6,Philips,Completed
+R-1898,O-1834,Lipstick,2024-06-13,Other,3762,3,Lakme,Pending
+R-1899,O-1910,Lipstick,2025-06-22,Size Issue,1247,1,Lakme,Pending
+R-1900,O-1582,T-shirt,2025-01-06,Size Issue,2931,2,Samsung India,Pending
+R-1901,O-1594,T-shirt,2025-08-29,Size Issue,908,6,Philips,Pending
+R-1902,O-1601,Mixer,2024-10-06,Other,3204,6,Yonex,Pending
+R-1903,O-1922,Monitor,2024-03-13,Defective,1476,9,Puma,Pending
+R-1904,O-1100,Mixer,2024-04-25,Wrong Item,1189,1,Samsung India,Completed
+R-1905,O-1521,Shoes,2025-01-29,Wrong Item,1020,7,Lakme,Pending
+R-1906,O-1404,Bag,2024-05-24,Defective,768,9,Philips,Pending
+R-1907,O-1009,Mixer,2024-02-10,Defective,1791,1,Samsung India,Pending
+R-1908,O-1891,Novel,2025-07-24,Other,426,1,Philips,Completed
+R-1909,O-1910,Novel,2024-12-10,Defective,1994,2,Samsung India,Completed
+R-1910,O-1883,Smartwatch,2024-02-18,Defective,776,2,Philips,Pending
+R-1911,O-1710,Smartwatch,2025-03-07,Size Issue,3683,2,Nike,Pending
+R-1912,O-1455,Lipstick,2024-06-11,Wrong Item,1796,3,Lakme,Completed
+R-1913,O-1722,Shoes,2024-11-14,Wrong Item,1973,4,Samsung India,Completed
+R-1914,O-1577,Lipstick,2024-10-02,Size Issue,3763,9,Nike,Pending
+R-1915,O-1037,Bag,2025-07-30,Size Issue,2728,9,Samsung India,Pending
+R-1916,O-1735,Bag,2025-07-30,Other,433,10,Nike,Pending
+R-1917,O-1102,Mixer,2025-08-03,Defective,2746,8,Nike,Completed
+R-1918,O-1610,Shoes,2024-09-28,Defective,2596,9,Yonex,Completed
+R-1919,O-1933,Tennis Racket,2025-02-05,Other,3064,5,Yonex,Completed
+R-1920,O-1080,Tennis Racket,2024-05-08,Other,1490,2,Philips,Completed
+R-1921,O-1452,Smartwatch,2025-05-20,Size Issue,402,6,Philips,Pending
+R-1922,O-1450,Mixer,2024-03-28,Size Issue,3207,2,Puma,Completed
+R-1923,O-1957,Bag,2025-05-01,Other,3134,9,Yonex,Pending
+R-1924,O-1939,Mixer,2025-07-31,Defective,913,5,Nike,Pending
+R-1925,O-1334,Tennis Racket,2025-09-26,Other,3586,1,Lakme,Completed
+R-1926,O-1132,Bag,2025-05-07,Defective,704,4,Philips,Completed
+R-1927,O-1166,Novel,2025-06-11,Size Issue,583,8,Puma,Completed
+R-1928,O-1841,Mixer,2025-08-24,Other,3220,2,Puma,Completed
+R-1929,O-1891,Mixer,2024-03-25,Defective,692,6,Samsung India,Pending
+R-1930,O-1204,Tennis Racket,2025-05-27,Size Issue,1717,9,Puma,Completed
+R-1931,O-1323,Monitor,2024-11-04,Size Issue,1767,10,Lakme,Completed
+R-1932,O-1076,T-shirt,2024-10-02,Wrong Item,2088,9,Puma,Pending
+R-1933,O-1271,Bag,2025-05-04,Defective,3608,3,Lakme,Completed
+R-1934,O-1532,Lipstick,2025-03-28,Size Issue,3334,10,Samsung India,Completed
+R-1935,O-1816,T-shirt,2025-02-15,Size Issue,552,7,Yonex,Pending
+R-1936,O-1750,Tennis Racket,2024-11-25,Size Issue,797,4,Yonex,Pending
+R-1937,O-1218,Lipstick,2024-08-03,Other,393,9,Lakme,Completed
+R-1938,O-1847,T-shirt,2025-03-14,Other,1522,2,Nike,Completed
+R-1939,O-1307,Monitor,2024-03-03,Other,2557,10,Philips,Completed
+R-1940,O-1851,Shoes,2025-06-19,Defective,2144,3,Nike,Completed
+R-1941,O-1909,T-shirt,2024-11-25,Size Issue,2475,2,Yonex,Completed
+R-1942,O-1662,Tennis Racket,2025-07-27,Size Issue,3409,6,Philips,Pending
+R-1943,O-1816,Mixer,2024-08-03,Other,3262,6,Philips,Completed
+R-1944,O-1081,Novel,2025-08-11,Defective,549,2,Puma,Pending
+R-1945,O-1877,Earbuds,2025-05-19,Wrong Item,3575,9,Philips,Pending
+R-1946,O-1626,Smartwatch,2025-03-30,Wrong Item,1333,8,Samsung India,Completed
+R-1947,O-1730,Tennis Racket,2025-02-19,Size Issue,412,4,Puma,Completed
+R-1948,O-1984,Smartwatch,2025-04-29,Other,1189,8,Yonex,Pending
+R-1949,O-1553,Tennis Racket,2025-09-23,Wrong Item,2850,4,Philips,Pending
+R-1950,O-1603,Lipstick,2025-05-13,Wrong Item,2459,6,Lakme,Completed
+R-1951,O-1469,Earbuds,2025-02-26,Other,2756,1,Philips,Pending
+R-1952,O-1629,Smartwatch,2024-01-26,Other,1468,4,Lakme,Completed
+R-1953,O-1917,Lipstick,2024-04-01,Wrong Item,577,2,Puma,Completed
+R-1954,O-1629,Smartwatch,2025-06-05,Defective,330,6,Yonex,Pending
+R-1955,O-1938,Monitor,2024-06-28,Other,2824,5,Yonex,Pending
+R-1956,O-1124,Bag,2024-10-18,Defective,3871,5,Samsung India,Pending
+R-1957,O-1473,Mixer,2025-09-03,Defective,2903,2,Yonex,Pending
+R-1958,O-1331,Earbuds,2024-08-24,Defective,661,3,Philips,Pending
+R-1959,O-1048,Smartwatch,2025-03-28,Wrong Item,1855,7,Philips,Pending
+R-1960,O-1528,Shoes,2024-05-16,Other,2999,4,Nike,Completed
+R-1961,O-1516,T-shirt,2025-04-05,Size Issue,1754,9,Lakme,Pending
+R-1962,O-1011,Smartwatch,2024-12-09,Wrong Item,896,4,Lakme,Completed
+R-1963,O-1423,Smartwatch,2024-12-02,Wrong Item,2977,2,Nike,Pending
+R-1964,O-1703,Mixer,2024-02-27,Defective,2162,4,Nike,Pending
+R-1965,O-1064,Shoes,2025-06-04,Size Issue,3814,10,Nike,Completed
+R-1966,O-1442,Lipstick,2024-12-03,Other,2824,8,Yonex,Completed
+R-1967,O-1033,Shoes,2025-05-06,Size Issue,3990,10,Philips,Pending
+R-1968,O-1692,Lipstick,2024-01-31,Defective,3807,1,Philips,Completed
+R-1969,O-1604,Novel,2024-10-22,Size Issue,466,6,Philips,Pending
+R-1970,O-1013,Novel,2025-03-26,Wrong Item,848,6,Philips,Pending
+R-1971,O-1195,Mixer,2024-12-24,Size Issue,3802,4,Samsung India,Pending
+R-1972,O-1999,Lipstick,2025-09-27,Size Issue,1504,5,Lakme,Pending
+R-1973,O-1773,Tennis Racket,2025-07-24,Defective,2367,3,Lakme,Pending
+R-1974,O-1424,Earbuds,2025-05-06,Other,2217,3,Lakme,Pending
+R-1975,O-1305,Lipstick,2024-01-25,Wrong Item,3788,8,Samsung India,Completed
+R-1976,O-1730,Mixer,2025-01-14,Size Issue,3097,1,Yonex,Completed
+R-1977,O-1492,Smartwatch,2024-11-03,Defective,3108,9,Yonex,Pending
+R-1978,O-1651,T-shirt,2024-05-24,Wrong Item,3292,7,Nike,Completed
+R-1979,O-1668,Lipstick,2025-04-22,Defective,2372,3,Puma,Pending
+R-1980,O-1511,Shoes,2025-08-21,Other,3145,8,Puma,Pending
+R-1981,O-1005,Novel,2025-06-26,Defective,1603,9,Samsung India,Pending
+R-1982,O-1817,Monitor,2025-06-19,Size Issue,1521,1,Samsung India,Completed
+R-1983,O-1879,Novel,2024-12-03,Wrong Item,1320,3,Puma,Pending
+R-1984,O-1802,Lipstick,2025-05-03,Other,3182,8,Yonex,Completed
+R-1985,O-1356,Lipstick,2025-01-05,Defective,2525,3,Samsung India,Pending
+R-1986,O-1917,Monitor,2025-01-13,Defective,638,2,Samsung India,Completed
+R-1987,O-1892,Monitor,2024-05-02,Wrong Item,2052,7,Yonex,Completed
+R-1988,O-1617,Earbuds,2024-02-01,Size Issue,2809,9,Lakme,Pending
+R-1989,O-1391,Mixer,2025-08-24,Other,2822,6,Nike,Completed
+R-1990,O-1594,Monitor,2025-09-11,Size Issue,591,7,Nike,Pending
+R-1991,O-1236,Shoes,2025-05-11,Defective,991,1,Lakme,Completed
+R-1992,O-1778,Monitor,2024-08-16,Other,2116,2,Samsung India,Completed
+R-1993,O-1823,Shoes,2025-08-17,Size Issue,422,4,Samsung India,Pending
+R-1994,O-1566,Novel,2024-12-19,Defective,2584,5,Yonex,Pending
+R-1995,O-1572,Lipstick,2025-04-19,Wrong Item,522,10,Puma,Pending
+R-1996,O-1528,Shoes,2025-07-16,Defective,534,5,Puma,Completed
+R-1997,O-1004,T-shirt,2025-08-23,Wrong Item,1265,10,Nike,Pending
+R-1998,O-1390,Mixer,2025-05-03,Size Issue,3612,6,Lakme,Completed
+R-1999,O-1055,Monitor,2025-07-02,Wrong Item,3020,7,Nike,Pending
